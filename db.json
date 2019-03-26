@@ -3,7 +3,7 @@
       "microDust": "60"
    },
    "areaDustInfo": {
-      areaDustInfo : [
+      "areaDustInfo" : [
          {
             "city": "서울",
             "microDust": "65",
