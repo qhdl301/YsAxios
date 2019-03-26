@@ -4,17 +4,17 @@
    },
      "areaDustInfo" : [
          {
-            "city": "Seuol",
+            "city": "Seoul",
             "microDust": "65",
             "maxDust": "105"
          },
          {
-            "city": "guenggi",
+            "city": "Guenggi",
             "microDust": "78",
             "maxDust": "98"
          },
          {
-            "city": "incheon",
+            "city": "Incheon",
             "microDust": "66",
             "maxDust": "106"
          }
