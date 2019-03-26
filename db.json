@@ -2,8 +2,7 @@
    "dust": {
       "microDust": "60"
    },
-   "areaDustInfo": {
-      "areaDustInfo" = [
+     "areaDustInfo" : [
          {
             "city": "Seuol",
             "microDust": "65",
@@ -20,5 +19,4 @@
             "maxDust": "106"
          }
       ]
-   }
 }
